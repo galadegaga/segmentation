@@ -1,0 +1,10 @@
+srun: error: m3ca0303: task 0: Exited with exit code 1
+
+real	10m38.291s
+user	0m0.038s
+sys	0m0.120s
+Matplotlib is building the font cache; this may take a moment.
+
+real	0m15.422s
+user	0m0.019s
+sys	0m0.028s
